@@ -604,7 +604,8 @@ $(document).ready(function () {
         }
         $("#enav").attr(
           "href",
-          "https://translate.google.com/translate?sl=auto&tl=en&u=https://u2s.glitch.me/csv.html"
+          "https://translate.google.com/translate?sl=auto&tl=en&u=web-zeta-lyart.vercel.app
+/csv.html"
         );
         $("#enav").show();
         if (isWeChatBrowser()) {
@@ -626,7 +627,8 @@ $(document).ready(function () {
         $(".text").hide();
         $("#enav").attr(
           "href",
-          "https://translate.google.com/translate?sl=auto&tl=en&u=https://u2s.glitch.me/all.h_tml"
+          "https://translate.google.com/translate?sl=auto&tl=en&u=web-zeta-lyart.vercel.app
+/all.h_tml"
         );
         $("#enav").show();
         $("#blist").html("");
@@ -1052,7 +1054,7 @@ $(document).ready(function () {
         alert("您未选择任何物品。");
       }else{
         try {
-          let textToCopy = "https://u2s.glitch.me/?v="
+          let textToCopy = "web-zeta-lyart.vercel.app/?v="
                 +$.map(storeid, function (e) { return e}).join(",");
 
           // 创建一个临时的 textarea 元素
