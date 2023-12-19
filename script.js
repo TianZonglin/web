@@ -1101,7 +1101,7 @@ $(document).ready(function () {
     $("#wxibox2").attr("height", "120px");
     $("#wxibox2").attr(
       "src",
-      "https://cdn.glitch.global/f1c7b686-0e39-43f2-8186-adb49d7f1137/wxwechat.png?v=1691593200541"
+      "https://cdn.glitch.global/358b4fa0-7739-4e16-991a-c2a51e6dc735/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-12-19%20190603.png?v=1703009242520"
     );
   }
   // 微信内打开
