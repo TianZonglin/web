@@ -604,8 +604,7 @@ $(document).ready(function () {
         }
         $("#enav").attr(
           "href",
-          "https://translate.google.com/translate?sl=auto&tl=en&u=web-zeta-lyart.vercel.app
-/csv.html"
+          "#"
         );
         $("#enav").show();
         if (isWeChatBrowser()) {
@@ -627,8 +626,7 @@ $(document).ready(function () {
         $(".text").hide();
         $("#enav").attr(
           "href",
-          "https://translate.google.com/translate?sl=auto&tl=en&u=web-zeta-lyart.vercel.app
-/all.h_tml"
+          "#"
         );
         $("#enav").show();
         $("#blist").html("");
